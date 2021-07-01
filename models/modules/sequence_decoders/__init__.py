@@ -1,0 +1,1 @@
+from .sequence_decoder_base import SequenceDecoder
