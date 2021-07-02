@@ -1,4 +1,9 @@
 # Placeholder Translation
+This repository contains the source code to train machine translation systems, with a focus on placeholder translation.
+The code is based on [allennlp](https://github.com/allenai/allennlp).
+
+You can use this code to reproduce the results in the paper ["Modeling Target-side Inflection in Placeholder Translation"](http://arxiv.org/abs/2107.00334).
+
 
 ## Install Dependencies
 Please use python 3.8.5.  
